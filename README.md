@@ -49,5 +49,18 @@ The "afcm Egypt" Flutter project includes the following features:
 8. App Logo and Branding:
  - The app incorporates a distinctive logo and branding to establish its identity.
 
+## Model
+The rheumatoid arthritis detection model used in this application has been trained to distinguish between images with normal x-rays and abnormal x-rays. The model has been converted to TensorFlow Lite format for efficient inference on mobile devices.
+
+<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/a044dceb-c6c9-43d0-829d-a7dc37180c36" alt="Splash-DarkMood" width="300" height="550">
+
+<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/7966c3fd-14b3-464b-a8c6-337941a27937" alt="Home-DarkMood" width="300" height="550"> 
+
+<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/a3183898-dbcc-48b0-a769-262761057c10" alt="Results-DarkMood" width="300" height="550">
+
+
+
+
+
 
 
