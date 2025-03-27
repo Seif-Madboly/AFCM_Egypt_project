@@ -49,22 +49,17 @@ The "afcm Egypt" Flutter project includes the following features:
 8. App Logo and Branding:
  - The app incorporates a distinctive logo and branding to establish its identity.
 
+## App Design
+| | Splash | Home | Results |
+|----------|----------|----------|----------|
+| **Dark Mode** |<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/a044dceb-c6c9-43d0-829d-a7dc37180c36" alt="Splash-DarkMode"  width="120" height="190"> |<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/7966c3fd-14b3-464b-a8c6-337941a27937" alt="Home-DarkMode"  width="120" height="190"> | <img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/a3183898-dbcc-48b0-a769-262761057c10" alt="Results-DarkMode" width="120" height="190"> | 
+| **light Mode** | <img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/925983a3-51c0-423c-a56c-38a3875d0ba3" alt="Splash-LightMode" width="120" height="190"> | <img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/2e9d3dae-36f0-4715-9af6-0d34325b103a" alt="Home-LightMode" width="120" height="190"> | <img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/ad920379-c8d7-4c79-bc71-af2bf8f1ed16" alt="Results-LightkMode" width="120" height="190">
+
+
+
+
 ## Model
 The rheumatoid arthritis detection model used in this application has been trained to distinguish between images with normal x-rays and abnormal x-rays. The model has been converted to TensorFlow Lite format for efficient inference on mobile devices.
-- Dark Mode: 
-<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/a044dceb-c6c9-43d0-829d-a7dc37180c36" alt="Splash-DarkMode" width="250" height="550">
-
-<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/7966c3fd-14b3-464b-a8c6-337941a27937" alt="Home-DarkMode" width="250" height="550"> 
-
-<img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/a3183898-dbcc-48b0-a769-262761057c10" alt="Results-DarkMode" width="250" height="550">
-
-- light Mode:
-  
-  <img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/925983a3-51c0-423c-a56c-38a3875d0ba3" alt="Splash-LightMode" width="250" height="550">
-
-  <img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/2e9d3dae-36f0-4715-9af6-0d34325b103a" alt="Home-LightMode" width="250" height="550">
-  
-  <img src="https://github.com/Seif-Madboly/afcm_egypt_project/assets/69864723/ad920379-c8d7-4c79-bc71-af2bf8f1ed16" alt="Results-LightkMode" width="240" height="550">
 
 
 
